@@ -38,7 +38,7 @@ A responsive business website built with **React + Vite**, styled using **Tailwi
 
 Clone the repository:  
 ```bash
-git clone https://github.com/R0F7/work-demo
+git clone https://github.com/R0F7/work-demo.git
 cd work-demo
 ```
 Install dependencies:
