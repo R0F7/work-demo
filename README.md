@@ -38,8 +38,8 @@ A responsive business website built with **React + Vite**, styled using **Tailwi
 
 Clone the repository:  
 ```bash
-git clone https://github.com/your-username/plumbing-pros.git
-cd plumbing-pros
+git clone https://github.com/R0F7/work-demo
+cd work-demo
 ```
 Install dependencies:
 ```
